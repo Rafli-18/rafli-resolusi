@@ -3,3 +3,4 @@ Rafli Resolusi
 - Mmebuat platform 
 - Membuat forum diskusi
 - Membuat merge shop
+- buat ternak ayam
